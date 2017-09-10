@@ -6,9 +6,9 @@
 		<port>80</port>
 	</server>
 	<server id="1">
-		<name>Test MBP</name>
-		<host>localhost</host>
-		<port>42</port>
+		<name>medika</name>
+		<host>medikaginsil.ro</host>
+		<port>433</port>
 	</server>
 	<server id="2">
 		<name>XML Add Test</name>
