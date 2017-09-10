@@ -11,8 +11,8 @@
 		<port>433</port>
 	</server>
 	<server id="2">
-		<name>XML Add Test</name>
-		<host>127.0.0.1</host>
-		<port>1337</port>
+		<name>Test</name>
+		<host>84.20.192.49</host>
+		<port>80</port>
 	</server>
 </servers>
