@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <servers>
 	<server id="0">
-		<name>p1rox</name>
-		<host>p1rox.fr</host>
+		<name>test1</name>
+		<host>84.20.192.49</host>
 		<port>80</port>
 	</server>
 	<server id="1">
-		<name>Test MBP</name>
-		<host>localhost</host>
-		<port>42</port>
+		<name>test1</name>
+		<host>84.20.192.49</host>
+		<port>443</port>
+	</server>
+	<server id="1">
+		<name>test2</name>
+		<host>84.20.192.60</host>
+		<port>80</port>
 	</server>
 	<server id="2">
-		<name>XML Add Test</name>
-		<host>127.0.0.1</host>
-		<port>1337</port>
+		<<name>test2</name>
+		<host>84.20.192.60</host>
+		<port>443</port>
 	</server>
 </servers>
