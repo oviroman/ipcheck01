@@ -10,12 +10,12 @@
 		<host>84.20.192.49</host>
 		<port>443</port>
 	</server>
-	<server id="1">
+	<server id="2">
 		<name>test2</name>
 		<host>84.20.192.60</host>
 		<port>80</port>
 	</server>
-	<server id="2">
+	<server id="3">
 		<<name>test2</name>
 		<host>84.20.192.60</host>
 		<port>443</port>
